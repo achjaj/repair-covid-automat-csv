@@ -3,10 +3,9 @@ import codecs
 
 map = {
         "Tren?ín":              "Trenčín",
-        "I. stupe? ohrozenia":  "I. stupeň ohrozenia",
+        "stupe?":               "stupeň",
         "Ostražitos?":          "Ostražitosť", 
-        "Ve?mi vysoká":         "Veľmi vysoká",
-        "II. stupe? ohrozenia": "II. stupeň ohrozenia",
+        "Ve?mi":                "Veľmi",
         "Byt?a":                "Bytča", 
         "?adca":                "Čadca", 
         "Levo?a":               "Levoča",
